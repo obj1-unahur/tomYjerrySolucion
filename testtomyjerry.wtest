@@ -1,0 +1,9 @@
+import tomyjerry.*
+
+// Completar con los test solicitados en cada etapa
+describe "group of tests for tomyjerry" {
+    test "test for tomyjerry" {
+            assert.that(true)
+    }
+
+}
